@@ -4955,10 +4955,10 @@
   },
   {
     "IndicatorLabel": "Population, total",
-    "IndicatorDescription": "Total population",
+    "IndicatorDescription": "Total Population, as of 1 July of every year.",
     "DataKey": "Population, total",
-    "DataSourceName": "International Labour Organization (ILO)",
-    "DataSourceLink": "https://ilostat.ilo.org/data/",
+    "DataSourceName": "United Nations Department of Economic and Social Affairs (UN DESA)",
+    "DataSourceLink": "https://population.un.org/wpp/",
     "LabelSuffix": "",
     "LabelPrefix": "",
     "LabelFormat": "",
