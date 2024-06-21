@@ -2,6 +2,7 @@
   {
     "Indicator": "Population with at Least Secondary Education",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -28,6 +29,7 @@
   {
     "Indicator": "Labour Force Participation Rate",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -56,6 +58,7 @@
   {
     "Indicator": "Share of Parliament Seats, by gender",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -82,6 +85,7 @@
   {
     "Indicator": "Literacy rate",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -112,6 +116,7 @@
   {
     "Indicator": "Sectoral Employment, % of total employment",
     "DisaggregationType": "Employment sector",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Services",
@@ -141,6 +146,7 @@
   {
     "Indicator": "Percentage of schools with access to the internet",
     "DisaggregationType": "Education level",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Primary Schools",
@@ -165,6 +171,7 @@
   {
     "Indicator": "Human Development Index",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -194,6 +201,7 @@
   {
     "Indicator": "Poverty headcount, % of population",
     "DisaggregationType": "Poverty line",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "$2.15 a day",
@@ -223,6 +231,7 @@
   {
     "Indicator": "Mortality rate probability attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease, ages 30-70",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -250,6 +259,7 @@
   {
     "Indicator": "Proportion of population above statutory pensionable age receiving a pension",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -279,6 +289,7 @@
   {
     "Indicator": "Population",
     "DisaggregationType": "Urban/Rural",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Urban",
@@ -307,6 +318,7 @@
   {
     "Indicator": "Population Using at least Basic Drinking-Water Services, percent",
     "DisaggregationType": "Urban/Rural",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Urban",
@@ -331,6 +343,7 @@
   {
     "Indicator": "Informal employment by sex and age (thousands), 15 and above",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -354,6 +367,7 @@
   {
     "Indicator": "Informal employment by sex and age (thousands), 15-24",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -378,6 +392,7 @@
   {
     "Indicator": "Informal employment by sex and age (thousands), 15-64",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -401,6 +416,7 @@
   {
     "Indicator": "Informal employment by sex and age (thousands), 25 and above",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -424,6 +440,7 @@
   {
     "Indicator": "Share of Informal employment by sex and age (%), 15 and above",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -452,6 +469,7 @@
   {
     "Indicator": "Share of Informal employment by sex and age (%), 15-24",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -481,6 +499,7 @@
   {
     "Indicator": "Share of Informal employment by sex and age (%), 25 and above",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -509,6 +528,7 @@
   {
     "Indicator": "Informal employment in agriculture by sex (thousands)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -533,6 +553,7 @@
   {
     "Indicator": "Informal employment in non-ariculture, by sex (thousands)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -557,6 +578,7 @@
   {
     "Indicator": "Share of Informal employment in agriculture by sex",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -585,6 +607,7 @@
   {
     "Indicator": "Share of Informal employment in non-agriculture by sex (%)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -613,6 +636,7 @@
   {
     "Indicator": "Informal employment by sex and status in employment (thousands), Employees",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -637,6 +661,7 @@
   {
     "Indicator": "Informal employment by sex and status in employment (thousands), Self-employed",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -661,6 +686,7 @@
   {
     "Indicator": "Informal employment by sex and status in employment (thousands), Not classified",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -685,6 +711,7 @@
   {
     "Indicator": "Share of Informal employment by sex and status in employment (%), Employees",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -713,6 +740,7 @@
   {
     "Indicator": "Share of Informal employment by sex and status in employment (%), Self-employed",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -741,6 +769,7 @@
   {
     "Indicator": "Share of Informal employment by sex and status in employment (%), Not classified",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -769,6 +798,7 @@
   {
     "Indicator": "Employment outside the Formal Sector by sex and age (thousands), 15 and above",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -793,6 +823,7 @@
   {
     "Indicator": "Employment outside the Formal Sector for age 15-24 by sex (thousands)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -817,6 +848,7 @@
   {
     "Indicator": "Employment outside the Formal Sector fro age 15-64 by sex (thousands)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -841,6 +873,7 @@
   {
     "Indicator": "Employment outside the Formal Sector for age 25 and above by sex (thousands)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -865,6 +898,7 @@
   {
     "Indicator": "Employment outside the Formal Sector by age (thousands)",
     "DisaggregationType": "Age",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -887,6 +921,7 @@
   {
     "Indicator": "Employment outside the Formal Sector for Male by age (thousands)",
     "DisaggregationType": "Age",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -909,6 +944,7 @@
   {
     "Indicator": "Employment outside the Formal Sector for Female by age (thousands)",
     "DisaggregationType": "Age",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -933,6 +969,7 @@
   {
     "Indicator": "Share of Employment outside the Formal Sector by sex (%), 15 and above",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -962,6 +999,7 @@
   {
     "Indicator": "Share of Employment outside the Formal Sector by sex (%), 15-24",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -991,6 +1029,7 @@
   {
     "Indicator": "Share of Employment outside the Formal Sector by sex and age (%), 25 and above",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1020,6 +1059,7 @@
   {
     "Indicator": "Share of Employment outside the Formal Sector by age (%), 15 and above",
     "DisaggregationType": "Age",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -1048,6 +1088,7 @@
   {
     "Indicator": "Share of Employment outside the Formal Sector for male by age (%), 15 and above",
     "DisaggregationType": "Age",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -1076,6 +1117,7 @@
   {
     "Indicator": "Share of Employment outside the Formal Sector for female by age (%), 15 and above",
     "DisaggregationType": "Age",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "15-24",
@@ -1107,6 +1149,7 @@
   {
     "Indicator": "Employment outside in agriculture the Formal Sector by sex and economic activity (thousands)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1131,6 +1174,7 @@
   {
     "Indicator": "Employment in non-agriculture outside the Formal Sector by sex",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1155,6 +1199,7 @@
   {
     "Indicator": "Share of Employment in Agriculture outside the Formal Sector by sex (%)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1184,6 +1229,7 @@
   {
     "Indicator": "Share of Employment in non-agriculture outside the Formal Sector by sex (%)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1213,6 +1259,7 @@
   {
     "Indicator": "Employment outside the Formal Sector by sex and status in employment (thousands), Employees",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1237,6 +1284,7 @@
   {
     "Indicator": "Employment outside the Formal Sector by sex and status in employment (thousands), Self-employed",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1261,6 +1309,7 @@
   {
     "Indicator": "Employment outside the Formal Sector by sex and status in employment (thousands), Not classified",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1285,6 +1334,7 @@
   {
     "Indicator": "Share of Employment outside the Formal Sector by sex and status in employment (%), Employees",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1314,6 +1364,7 @@
   {
     "Indicator": "Share of Employment outside the Formal Sector by sex and status in employment (%), Self-employed",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1342,6 +1393,7 @@
   {
     "Indicator": "Share of Employment outside the Formal Sector by sex and status in employment (%), Not classified",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1370,6 +1422,7 @@
   {
     "Indicator": "Share of Employment outside the Formal Sector by sex (%)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1399,6 +1452,7 @@
   {
     "Indicator": "Share of Informal employment by sex (%)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1428,6 +1482,7 @@
   {
     "Indicator": "Informal employment by sex (thousands)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1453,6 +1508,7 @@
   {
     "Indicator": "Employment outside the Formal Sector by sex (thousands)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1476,6 +1532,7 @@
   {
     "Indicator": "Access to electricity,% of population",
     "DisaggregationType": "Urban/Rural",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Urban",
@@ -1515,6 +1572,7 @@
   {
     "Indicator": "Gross National Income Per Capita (in 2017 PPP$)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1541,6 +1599,7 @@
   {
     "Indicator": "Expected Years of Schooling",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1570,6 +1629,7 @@
   {
     "Indicator": "Mean Years of Schooling",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1599,6 +1659,7 @@
   {
     "Indicator": "Life Expectancy at Birth",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1627,6 +1688,7 @@
   {
     "Indicator": "Climate Change-related change in death rates per 100,000 population, by scenario",
     "DisaggregationType": "Climate scenario",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "RCP4.5 SSP3",
@@ -1649,6 +1711,7 @@
   {
     "Indicator": "Basic Waste Management Services in Healthcare Facilities",
     "DisaggregationType": "Healthcare facility type",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Hospitals",
@@ -1673,6 +1736,7 @@
   {
     "Indicator": "Universal Health Coverage - Service Coverage by UHC dimensions",
     "DisaggregationType": "UHC dimension",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Infectious diseases",
@@ -1712,6 +1776,7 @@
   {
     "Indicator": "Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP)",
     "DisaggregationType": "Poverty line",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "$1.90 poverty line",
@@ -1741,6 +1806,7 @@
   {
     "Indicator": "Deaths attributed to cardiovascular diseases,estimate, (rate)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1765,6 +1831,7 @@
   {
     "Indicator": "Deaths attributed to chronic respiratory diseases, estimate, (rate)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1789,6 +1856,7 @@
   {
     "Indicator": "Deaths attributed to digestive diseases, estimate, (rate)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1813,6 +1881,7 @@
   {
     "Indicator": "Deaths attributed to neurological disorders, estimate, (rate)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1837,6 +1906,7 @@
   {
     "Indicator": "Deaths attributed to other non-communicable diseases, estimate, (rate)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1861,6 +1931,7 @@
   {
     "Indicator": "HIV prevalence, by subpopulation",
     "DisaggregationType": "Vulnerable group",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Men who have sex with men",
@@ -1888,6 +1959,7 @@
   {
     "Indicator": "Prevalence of cardiovascular diseases, estimate, (rate)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1913,6 +1985,7 @@
   {
     "Indicator": "Prevalence of chronic respiratory diseases, estimate, (rate)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1937,6 +2010,7 @@
   {
     "Indicator": "Prevalence of digestive diseases, estimate, (rate)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1961,6 +2035,7 @@
   {
     "Indicator": "Prevalence of neurological disorders, estimate, (rate)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
@@ -1985,6 +2060,7 @@
   {
     "Indicator": "Prevalence of other non-communicable diseases, estimate, (rate)",
     "DisaggregationType": "Gender",
+    "Access": "public",
     "DisaggregatedIndicators": [
       {
         "key": "Female",
