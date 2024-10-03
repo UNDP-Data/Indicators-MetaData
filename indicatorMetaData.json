@@ -4343,7 +4343,7 @@
     ]
   },
   {
-    "IndicatorLabel": "Human Development Index",
+    "IndicatorLabel": "Human development index (HDI)",
     "IndicatorDescription": "The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living",
     "DataKey": "Human development index (HDI)",
     "DataSourceName": "United Nations Development Programme (UNDP)",
